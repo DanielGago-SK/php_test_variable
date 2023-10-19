@@ -1,0 +1,3 @@
+# php_test_variable
+Pokusný kód ktorý ukazuje aký je problém prenášať údaje z PHP premennej do JS premennej, ak je to súčasť PHP kódu a echujem JS script.
+Dodatočne som potom vyskúšal použiť aj json_encode(), to pomohlo tomu, zasa boli dajaké ďalšie zápisy možné ktoré fungovali korektne...
